@@ -1,0 +1,7 @@
+{
+    "version":  "2.0.0",
+    "release_date":  "2026-09-01",
+    "notes":  "Primera version portable con autoactualizacion.",
+    "download_url":  "https://github.com/hsintaxis/extractor-facturas-correo-desktop-release/releases/latest/download/ExtractorFacturasCorreo_Portable.zip",
+    "sha256_url":  "https://github.com/hsintaxis/extractor-facturas-correo-desktop-release/releases/latest/download/ExtractorFacturasCorreo_Portable.zip.sha256"
+}
